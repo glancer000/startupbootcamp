@@ -1,0 +1,19 @@
+.feature__container{
+  width: 250px;
+  background: rgb(255, 255, 255);
+  padding:40px;
+  margin: 40px;
+  display: grid;
+
+}
+
+.feature__image{
+  width:100%;
+  text-align: center;
+
+}
+
+.feature__content{
+  width:100%;
+  text-align: center;
+}

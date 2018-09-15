@@ -1,0 +1,51 @@
+body, html {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+
+
+/* button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+} */
+
+.is-active{
+  text-emphasis: none;
+  color: rgb(133, 124, 124);
+}
+
+h1{
+  padding-bottom: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+
+  h1{
+    text-align: center;
+  }
+
+  p{
+    text-align: center;
+  }
+
+  .container{
+    width: 100%;
+  }
+
+  .content{
+    margin: 10%;
+  }
+
+
+}
+

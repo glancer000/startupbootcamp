@@ -1,0 +1,14 @@
+.startedbutton{
+  justify-content: center;
+  height: 40px;
+  width: 150px;
+  background: rgb(68, 68, 158);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
